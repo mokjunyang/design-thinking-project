@@ -3,7 +3,9 @@
 Our theme for the project was "Big Data and Artificial Intelligence". Based on this theme, we began brainstorming ideas revolving this theme. In the end, we came up with the idea of an AI-assisted travel application that uses predictive AI to give our users a general idea of the weather on a given day so that they can prepare in advance. 
 
 Report: https://drive.google.com/file/d/1mJa3dMjtBQlXn_Bwld5_3k2fpyWbbUVk/view?usp=drive_link
+
 Slides: https://docs.google.com/presentation/d/1aeV_ub1_GTzSGriIyNDi5IhRq7foxm2n/edit?usp=sharing&ouid=102879628677220522516&rtpof=true&sd=true
+
 Video: https://drive.google.com/file/d/183XaKyvaq_k4XBrVKShfN_YKv6Yc_2P7/view?usp=sharing
 
 <h3><ins>Reflections on Design Thinking Project</ins></h3>
